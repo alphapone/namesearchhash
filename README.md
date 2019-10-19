@@ -52,5 +52,5 @@ res14: Long = -157418695
 
 Hash function from this repository is purposed for russian language only and for cyrillic and latin representation. 
 * If you need similar hash function for other languages or other encodings write please to inl@yandex.com.
-* If you need to change licensee agreement condition for using in you work write please to inl@yandex.com.
+* If you need to change licensee agreement condition for using in your work write please to inl@yandex.com.
 
