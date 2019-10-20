@@ -5,7 +5,7 @@ It's a special hash function for fast search transliterated data in large tables
 
 The hash function meet conditions:
 * If two strings are cyrillic and latin representatiion of same string, function returns equal values for them
-* If two strings are different record of same name, function returns equals values for them
+* If two strings are different record of same name, function returns equal values for them
 
 ----
 So, for searching in large tables text in different (latin and cyrillic) form it is possible
@@ -54,3 +54,6 @@ Hash function from this repository is purposed for russian language only and for
 * If you need similar hash function for other languages or other encodings write please to inl@yandex.com.
 * If you need to change licensee agreement condition for using in your work write please to inl@yandex.com.
 
+## Test UI support
+This library has UI for manual testing without scala REPL installed. So you can simple clone this repository run project
+in IDEA and test provided by this project hash function in any string
