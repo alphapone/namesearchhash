@@ -57,3 +57,6 @@ Hash function from this repository is purposed for russian language only and for
 ## Test UI support
 This library has UI for manual testing without scala REPL installed. So you can simple clone this repository run project
 in IDEA and test provided by this project hash function in any string
+
+## Online demo
+Online demo (in russian language only) is available here: http://94.103.90.23
