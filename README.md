@@ -59,4 +59,4 @@ This library has UI for manual testing without scala REPL installed. So you can 
 in IDEA and test provided by this project hash function in any string
 
 ## Online demo
-Online demo (in russian language only) is available here: http://94.103.90.23
+Online demo (in russian language only) is available here: http://pmkitten.com/ipf
